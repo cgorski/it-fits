@@ -1,3 +1,8 @@
+/// initialize the library
+pub fn init() {
+
+}
+
 #[cfg(test)]
 mod tests {
     #[test]
