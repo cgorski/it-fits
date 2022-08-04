@@ -1,0 +1,12 @@
+[package]
+name = "it-fits"
+version = "0.1.0"
+edition = "2021"
+description = "A FITS processing tool"
+license = "MIT"
+authors = ["Chris Gorski <cgorski@cgorski.org>"]
+repository = "https://github.com/cgorski/it-fits"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
